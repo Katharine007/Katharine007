@@ -2,8 +2,6 @@
 - 👀 I’m interested in Python development and enjoys cybersecurity, languages like Java, C and SQL. 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Python development and Web development projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Debugging gives me dopamine rush
 
 <!---
