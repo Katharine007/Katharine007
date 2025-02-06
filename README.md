@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Katharine
-- 👀 I’m interested in Python development and enjoys cybersecurity + languages like Java, C and SQL. 
+- 👀 I’m interested in AI-Machine Learning, Python development, SQL and also languages like C, Java
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Python development and Web development projects
+- 💞️ I’m looking to collaborate on Machine Learning, Python development and Web development projects
 - ⚡ Fun fact: Debugging gives me dopamine rush
 
 <!---
