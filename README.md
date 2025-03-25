@@ -10,7 +10,7 @@ I'm a **final-year Computer Science & Engineering student** and a **passionate d
       </p>
     </td>
     <td>
-      <img src="https://github.com/Katharine007/Katharine007/blob/main/Cycling%20Loop%20Animation.gif" width="400">
+      <img src="https://github.com/Katharine007/Katharine007/blob/main/Cycling%20Loop%20Animation.gif" width="200">
     </td>
   </tr>
 </table>  
