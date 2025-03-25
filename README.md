@@ -31,6 +31,7 @@ My current focus is to advance my coding skills and to utilise coding for a good
 
 ### 🌐 Let's Connect  
 
+Feel free to reach out for collaboration, provide feedback on my projects, or engage in discussions about the convergence of Computer Science and Engineering.
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/katharine-k-687981267/" target="_blank" style="outline: none;">
