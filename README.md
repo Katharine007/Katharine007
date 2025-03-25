@@ -4,11 +4,11 @@
   <tr>
     <td>
       <p>
-        A final year Computer Science and Engineer student and passionate developer. I enjoy coding, problem-solving, debugging, teaching and working on real-world applications that enhance efficiency and user experience. Constantly learning and evolving in the ever-changing tech landscape!  
+        A final year Computer Science and Engineer student and a passionate developer. I enjoy coding, problem-solving, debugging, teaching and working on real-world applications that enhance efficiency and user experience. Constantly learning and evolving in the ever-changing tech landscape!  
       </p>
     </td>
     <td>
-      <img src="https://github.com/Katharine007/Katharine007/blob/main/Picture.png" width="600">
+      <img src="https://github.com/Katharine007/Katharine007/blob/main/Picture.png" width="1000">
     </td>
   </tr>
 </table>  
