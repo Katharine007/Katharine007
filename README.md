@@ -4,7 +4,9 @@
   <tr>
     <td>
       <p>
-        A final year Computer Science and Engineer student and a passionate developer. I enjoy coding, problem-solving, debugging, teaching and working on real-world applications that enhance efficiency and user experience. Constantly learning and evolving in the ever-changing tech landscape!  
+        ## 
+
+I'm a **final-year Computer Science & Engineering student** and a **passionate developer** who enjoys coding, teaching, problem-solving and debugging. I love working on **real-world applications** that improve efficiency and user experience. Constantly evolving in the ever-changing tech world!  
       </p>
     </td>
     <td>
@@ -20,9 +22,12 @@
 - Design Tools: Canva
 - Data Analytics: Tranformers, NLP, Power BI
 
+---
 ## 🌱 Currently Learning
 
 My current focus is to advance my coding skills and to utilise coding for a good social cause.
+
+---
 
 ### 🌐 Let's Connect  
 
