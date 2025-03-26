@@ -48,7 +48,7 @@ Feel free to reach out for collaboration, provide feedback on my projects, or en
       <img src="https://github-readme-stats.vercel.app/api?username=Katharine007&show_icons=true&theme=tokyonight&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katharine007&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katharine007&layout=compact&theme=tokyonight"/>
     </td>
   </tr>
 </table>
