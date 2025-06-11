@@ -21,12 +21,12 @@ I'm a **final-year Computer Science & Engineering student** and a **passionate d
 
 - Languages: Python, SQL, Java, C, HTML, CSS, JavaScript
 - Design Tools: Canva
-- Data Analytics: Tranformers, NLP, Power BI
+- Data Science: Tranformers, NLP, Power BI
 
 ---
 ## 🌱 Currently Learning
 
-My current focus is to advance my coding skills and to utilise coding for a good social cause.
+My current focus is to advance my coding skills and implement on real world projects.
 
 ---
 
