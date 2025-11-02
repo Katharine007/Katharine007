@@ -6,7 +6,7 @@
       <p>
         
 
-I'm a **final-year Computer Science & Engineering student** and a **passionate developer** who enjoys coding, teaching, problem-solving and debugging. I love working on **real-world applications** that improve efficiency and user experience. Constantly evolving in the ever-changing tech world! 
+I'm a **Computer Science & Engineering graduate** and a **passionate developer** who enjoys coding, teaching, problem-solving and debugging. I love working on **real-world applications** that improve efficiency and user experience. Constantly evolving in the ever-changing tech world! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Katharine007&label=Profile%20views&color=0e75b6&style=flat" alt="Katharine007" /> </p>
       </p>
     </td>
@@ -21,12 +21,13 @@ I'm a **final-year Computer Science & Engineering student** and a **passionate d
 
 - Languages: Python, SQL, Java, C, HTML, CSS, JavaScript
 - Design Tools: Canva
-- Data Science: Tranformers, NLP, Power BI
+- Data Science: Tranformers, NLP, LLM Finetuning
+- Other Interests : Linux, Cryptography and Network Security, Problem solving
 
 ---
 ## 🌱 Currently Learning
 
-My current focus is to advance my coding skills and implement on real world projects.
+My current focus is to provide design and implement efficient solutions to real world projects.
 
 ---
 
