@@ -6,7 +6,7 @@
       <p>
         
 
-I'm a **Computer Science & Engineering graduate** and a **passionate developer** who enjoys coding, teaching, problem-solving and debugging. I love working on **real-world applications** that improve efficiency and user experience. Constantly evolving in the ever-changing tech world! 
+An Engineer who can efficiently convert complex business problems into Engineering problem statements and design & Implement solutions. Constantly evolving in the ever-changing tech world! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Katharine007&label=Profile%20views&color=0e75b6&style=flat" alt="Katharine007" /> </p>
       </p>
     </td>
@@ -19,15 +19,14 @@ I'm a **Computer Science & Engineering graduate** and a **passionate developer**
 ---
 ## 🔧 Technologies & Tools
 
-- Languages: Python, SQL, Java, C, HTML, CSS, JavaScript
-- Design Tools: Canva
-- Data Science: Tranformers, NLP, LLM Finetuning
+- Languages: Python, SQL
+- Data Science: EDA, ML, Fine-Tune, RAG, ASR, NLP
 - Other Interests : Linux, Cryptography and Network Security, Problem solving
 
 ---
 ## 🌱 Currently Learning
 
-My current focus is to provide design and implement efficient solutions to real world projects.
+My current focus is to provide design and implement efficient solutions & systems.
 
 ---
 
@@ -41,28 +40,6 @@ Feel free to reach out for collaboration, provide feedback on my projects, or en
   </a>
   &nbsp; &nbsp;
 </p>
-
-### 📊 GitHub Stats & 🔥 Most Used Languages  
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Katharine007&show_icons=true&theme=tokyonight&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katharine007&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
-
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Katharine007&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Katharine007&icon=2&color=0)](https://visitcount.itsvg.in)
-
-
 
 
 
